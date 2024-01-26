@@ -1,0 +1,7 @@
+zeebe:
+  client:
+    cloud:
+      clientId: dd_OTu9bvicK.U5G2M7g.Vm-H6CFgP7G
+      clientSecret: gii0TlAbtTOEFcnlNqZlMiZ18xay7ghCf4Fx0YWY0R6rcoAUU0aWXl6LqXylfvE0
+      clusterId: 11a8022b-7cd0-41c9-9df2-0ba75673eaeb
+      region: syd-1
